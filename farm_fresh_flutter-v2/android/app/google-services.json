@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "212261496557",
+    "project_id": "farmfresh-ildevesh",
+    "storage_bucket": "farmfresh-ildevesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212261496557:android:03487e2d68f9650345cee4",
+        "android_client_info": {
+          "package_name": "com.ildevesh.farmfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212261496557-ij30bbcl1oim549llmqcvf6q0onql6sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ildevesh.farmfresh",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "212261496557-4l78s5kf24lhm1la02a4bbmcuennettd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOFlubz8sGOuQUmEc86dcWs7-z6etAuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212261496557-4l78s5kf24lhm1la02a4bbmcuennettd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212261496557-geujafoaooh0fqamocbk4m0ieb93jud1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ildevesh.farmfresh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
